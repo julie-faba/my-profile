@@ -1,0 +1,25 @@
+body{
+	background-color: #A8A196;
+	color: #202A25;
+	font-family: 'Playen Sans',cursive;
+}
+
+h1{
+	color: #952323;
+	font-family: 'Playen Sans',cursive;
+	font-weight: 200;
+	font-weight: bold;
+
+}
+
+h2{
+	color: #A73121;
+	font-family: 'Playen Sans',cursive;
+	font-weight: 150;
+	font-weight: bold;
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+
